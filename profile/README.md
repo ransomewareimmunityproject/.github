@@ -6,6 +6,7 @@ This project prepare companies to fight war against Ransomeware attacks using de
 1. Develop state of art defensive security tool for Blueteamers and System administrator
 2. Build Defensive security tools which can be used by companies and critical infrastructure who are under cybersecurity poverty line for free
 3. To throw some light on state of art inbuilt security setting of Windows 
+4. build detection mechansim to identify the malwares faster
 
 # Who can contribute
 1. Any Security Researcher who is interested to develop tools and techniques to identify and prevent Ransomeware.
