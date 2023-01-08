@@ -8,6 +8,10 @@ This project prepare companies to fight war against Ransomeware attacks using de
 3. To throw some light on state of art inbuilt security setting of Windows 
 4. build detection mechansim to identify the malwares faster
 
+# Project we are currently working on
+1. Powershell scripts to enforce highest possible security in Windows
+2. Alpha rules to detect malware based behaviour
+
 # Who can contribute
 1. Any Security Researcher who is interested to develop tools and techniques to identify and prevent Ransomeware.
 
