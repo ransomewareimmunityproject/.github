@@ -3,7 +3,7 @@
 This project prepare companies to fight war against Ransomeware attacks using defensive security methods provided by inbuilt security Feature of Windows 
 
 # Goal
-1. Develop state of art defensive security tool for Blueteamers and System administratorw
+1. Develop state of art defensive security tool for Blueteamers and System administrator
 2. Build Defensive security tools which can be used by companies and critical infrastructure who are under cybersecurity poverty line for free
 3. To throw some light on state of art inbuilt security setting of Windows 
 
