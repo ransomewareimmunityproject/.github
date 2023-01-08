@@ -9,7 +9,7 @@ This project prepare companies to fight war against Ransomeware attacks using de
 4. build detection mechansim to identify the malwares faster
 
 # Project we are currently working on
-1. Powershell scripts to enforce highest possible security in Windows
+1. Powershell scripts to enforce highest possible security and access control in Windows with ease
 2. Alpha rules to detect malware based behaviour
 
 # Who can contribute
